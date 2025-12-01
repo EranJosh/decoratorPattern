@@ -1,2 +1,2 @@
 # decoratorPattern
-Lab Seatwork Decorator Pattern
+Lab Seatwork Coffee Decorator Pattern
